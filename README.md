@@ -1,7 +1,4 @@
 # Academic-Projects
 
-| Project Name  | Course        | Language |
-| ------------- |:-------------:| --------:|
-|               |               |          |
-|               |               |          |
-|               |               |          |
+| Project Name  | Course        | Language | Description |
+| ------------- |:-------------:| --------:| -----------:|
