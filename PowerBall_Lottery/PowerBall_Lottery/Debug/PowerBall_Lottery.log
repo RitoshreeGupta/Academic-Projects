@@ -1,0 +1,4 @@
+﻿  PowerBall.cpp
+c:\users\ritos\desktop\past classes\cis200\projects\powerball_lottery\powerball_lottery\powerball.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ritos\desktop\past classes\cis200\projects\powerball_lottery\powerball_lottery\powerball.cpp(10): warning C4101: 'prize': unreferenced local variable
+  PowerBall_Lottery.vcxproj -> C:\Users\Ritos\Desktop\Past Classes\CIS200\Projects\PowerBall_Lottery\Debug\PowerBall_Lottery.exe

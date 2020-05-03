@@ -1,0 +1,8 @@
+﻿  Car.cpp
+c:\users\ritos\desktop\past classes\fall cis 200\project1-ooprogramming\project1-ooprogramming\car.cpp(46): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CarRacingModule.cpp
+c:\users\ritos\desktop\past classes\fall cis 200\project1-ooprogramming\project1-ooprogramming\carracingmodule.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\ritos\desktop\past classes\fall cis 200\project1-ooprogramming\project1-ooprogramming\carracingmodule.cpp(59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+c:\users\ritos\desktop\past classes\fall cis 200\project1-ooprogramming\project1-ooprogramming\car.cpp(70): warning C4715: 'Car::race': not all control paths return a value
+  Project1-OOProgramming.vcxproj -> C:\Users\Ritos\Desktop\Past Classes\Fall CIS 200\Project1-OOProgramming\Debug\Project1-OOProgramming.exe
